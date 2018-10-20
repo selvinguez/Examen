@@ -8,7 +8,7 @@ class examen2 extends React.Component {
     render() {
         return(
             <div>
-  <button type="button" class="btn btn-primary">HOLA SOY LA RUTA #2</button>
+ 
   <form>
   <div className="form-group">
     <label for="exampleInputEmail1">Email address</label>
@@ -38,9 +38,7 @@ class examen2 extends React.Component {
 <button type="button" className="btn btn-secondary" data-toggle="tooltip" data-placement="left" title="Tooltip on left">
   Tooltip on left
 </button>
-<button type="button" className="btn btn-secondary" data-toggle="tooltip" data-html="true" title="<em>Tooltip</em> <u>with</u> <b>HTML</b>">
-  Tooltip with HTML
-</button>
+
 
             </div>
         )
