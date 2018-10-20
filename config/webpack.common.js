@@ -29,6 +29,7 @@ module.exports = {
   },
 
   module: {
+    
     rules: [
       // JS files
       {
@@ -36,7 +37,7 @@ module.exports = {
         include: helpers.root('client'),
         loader: 'babel-loader'
       },
-
+      
       // SCSS files
       {
         test: /\.scss$/,
