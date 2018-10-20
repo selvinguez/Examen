@@ -7,8 +7,7 @@ const styles = {
 class examen2 extends React.Component {
     render() {
         return(
-            <div>
- 
+            <div> 
   <form>
   <div className="form-group">
     <label for="exampleInputEmail1">Email address</label>
@@ -38,8 +37,6 @@ class examen2 extends React.Component {
 <button type="button" className="btn btn-secondary" data-toggle="tooltip" data-placement="left" title="Tooltip on left">
   Tooltip on left
 </button>
-
-
             </div>
         )
     }

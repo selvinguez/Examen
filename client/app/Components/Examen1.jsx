@@ -8,8 +8,7 @@ class examen1 extends React.Component {
     render() {
         return(
             <div>
-          
-            <button type="button" class="btn btn-primary">HOLA SOY LA RUTA #1</button>
+         <button type="button" class="btn btn-primary">HOLA SOY LA RUTA #1</button>
             </div>
         )
     }
